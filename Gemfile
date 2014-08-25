@@ -34,6 +34,7 @@ group :development, :test do
 #  gem 'capybara', '~>2.2.0'
 end
 
+gem 'underscore-rails'
 gem 'therubyracer'
 gem 'less-rails'
 gem 'twitter-bootstrap-rails'
